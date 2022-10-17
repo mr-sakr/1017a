@@ -5,5 +5,5 @@ folder/file4.txt
 !style3.css
 posts/post3.txt
 article3.html
-users/
+users/*
 !users/user3.html
