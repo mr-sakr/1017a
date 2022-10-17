@@ -1,0 +1,5 @@
+file1.txt
+folder/file4.txt
+*.css
+!style5.css
+!style3.css
