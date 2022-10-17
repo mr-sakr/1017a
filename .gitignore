@@ -3,3 +3,5 @@ folder/file4.txt
 *.css
 !style5.css
 !style3.css
+posts/post3.txt
+article3.html
